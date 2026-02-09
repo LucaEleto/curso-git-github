@@ -5,3 +5,6 @@ git rm --cached "Arquivo" --> Retira um arquivo de ser comitado;
 git add . --> Adiciona todos os arquivos para serem comitados;
 git commit -m "Descrição do Commit" --> Faz commit de todos arquivos que estao prontos para serem comitados;
 git log --> Verifica todos arquivos que foi feito commit;
+git branch "Nome do branch" --> Cria um ambiente de desenvolvimento para serem feitos testes antes de enviar para produção;
+git branch --> Consegue ver todos os ambientes existentes;
+git checkout "Nome do branch" --> Mudar para o branch selecionado;
