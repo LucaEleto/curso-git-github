@@ -1,0 +1,7 @@
+git init --> Criar repositorio;
+git status --> Ver status dos arquivos;
+git add "arquivo" --> Adicionar arquivo para ser comitado;
+git rm --cached "Arquivo" --> Retira um arquivo de ser comitado;
+git add . --> Adiciona todos os arquivos para serem comitados;
+git commit -m "Descrição do Commit" --> Faz commit de todos arquivos que estao prontos para serem comitados;
+git log --> Verifica todos arquivos que foi feito commit;
