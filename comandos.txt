@@ -9,3 +9,7 @@ git branch "Nome do branch" --> Cria um ambiente de desenvolvimento para serem f
 git branch --> Consegue ver todos os ambientes existentes;
 git checkout "Nome do branch" --> Mudar para o branch selecionado;
 git merge "Nome do branch" --> Faz a adiçao dos arquivos criados em outra branch;
+git push origin "Nome do branch" --> Faz o upload do branch local para o github
+git clone --> Criando uma pasta e com o botao direito indo na opção "Git bash here". Colocar o comando git clone "Link do repositorio onlie" para baixar os arquivos para a pasta;
+git pull --> Atualiza todos os Branchs, deixando igual esta no remoto;
+git pull origin "nome branch" --> Atualiza somente o branch selecionado;
