@@ -1,3 +1,6 @@
+git config --global user.name "Nome Usuário"
+git config --global user.email "Email Usuário"
+
 git init --> Criar repositorio;
 git status --> Ver status dos arquivos;
 git add "arquivo" --> Adicionar arquivo para ser comitado;
